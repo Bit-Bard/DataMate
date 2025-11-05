@@ -1,5 +1,12 @@
 # 🧠 DataMate: Your AI-Powered Data Analysis Assistant
 
+![DataMate](./Screenshot%202025-11-06%20003737.png)
+
+### 🌐 Live Demo  
+👉 **Try it here:** [DataMate Streamlit App](https://datamate.streamlit.app/)
+
+---
+
 **DataMate** is an **AI-integrated data exploration and preprocessing assistant** built using **Streamlit**. It lets you **chat with your data**, clean it intelligently, and perform in-depth **EDA (Exploratory Data Analysis)** — all from one interactive dashboard.
 
 No need to juggle between Jupyter notebooks, SQL, and Python scripts — just upload your dataset and let **DataMate** handle the rest!
