@@ -124,11 +124,6 @@ streamlit run app.py
 
 ### 🧠 Developed by
 
-**Dhruv Devaliya**
+### Author - Dhruv Devaliya-->Bit-Bard
 Data Scientist | ML Enthusiast | AI Developer
 [GitHub](https://github.com/Bit-Bard) • [LinkedIn](https://www.linkedin.com/in/dhruv-devaliya/)
-
----
-
-Would you like me to add **images (screenshots placeholders)** and **badges** (like “Built with Streamlit”, “Powered by Gemini”, “Python 3.10+”) to make it visually appealing for GitHub?
-That will make it look professional and recruiter-friendly.
